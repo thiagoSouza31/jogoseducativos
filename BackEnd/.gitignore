@@ -1,0 +1,15 @@
+# Configurações sensíveis
+src/main/resources/application.properties
+
+# Compilação Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sistema
+.DS_Store
+Thumbs.db
